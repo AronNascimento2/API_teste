@@ -195,7 +195,7 @@
     {
       "name": "Terrus Carbon Coffe",
       "categorie": "Categoria x",
-      "title": "Este projeto de redução de emissão ...",
+      "titleOfDescription": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
       "id": 1
@@ -203,7 +203,7 @@
     {
       "name": "Terrus Carbon Coffe",
       "categorie": "Categoria x",
-      "title": "Este projeto de redução de emissão ...",
+      "titleOfDescription": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
       "id": 2
@@ -211,7 +211,7 @@
     {
       "name": "Terrus Carbon Coffe",
       "categorie": "Categoria x",
-      "title": "Este projeto de redução de emissão ...",
+      "titleOfDescription": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
       "id": 3
@@ -219,7 +219,7 @@
     {
       "name": "Terrus Carbon Coffe",
       "categorie": "Categoria x",
-      "title": "Este projeto de redução de emissão ...",
+      "titleOfDescription": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
       "id": 4
@@ -230,7 +230,7 @@
       "name": "Certificado Cliente 01",
       "cnpj": "12.348.678/0001-00",
       "categorie": "Categoria x",
-      "titleOfDescription": "Este projeto de redução de emissão ...",
+      "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
       "created_at": "08/05/2024",
@@ -241,7 +241,7 @@
       "name": "Certificado Cliente 02",
       "cnpj": "12.348.678/0001-00",
       "categorie": "Categoria x",
-      "titleOfDescription": "Este projeto de redução de emissão ...",
+      "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
       "created_at": "08/05/2024",
@@ -252,7 +252,7 @@
       "name": "Terrus Carbon Coffe",
       "cnpj": "12.348.678/0001-00",
       "categorie": "Categoria x",
-      "titleOfDescription": "Este projeto de redução de emissão ...",
+      "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
       "created_at": "08/05/2024",
@@ -263,7 +263,7 @@
       "name": "Terrus Carbon Coffe",
       "cnpj": "12.348.678/0001-00",
       "categorie": "Categoria x",
-      "titleOfDescription": "Este projeto de redução de emissão ...",
+      "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
       "created_at": "08/05/2024",
