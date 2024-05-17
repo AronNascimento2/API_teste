@@ -220,7 +220,7 @@
 
   "customercertificates": [
     {
-      "name": "Terrus Carbon Coffe",
+      "name": "Certificado 01",
       "categorie": "Categoria x",
       "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
@@ -228,7 +228,7 @@
       "id": 1
     },
     {
-      "name": "Terrus Carbon Coffe",
+      "name": "Certificado 02",
       "categorie": "Categoria x",
       "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
