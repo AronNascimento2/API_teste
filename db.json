@@ -5,6 +5,8 @@
       "email": "empresa01@teste.com",
       "cnpj": "12.345.678/0001-00",
       "created_at": "08/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "5765"
     },
     {
@@ -12,6 +14,8 @@
       "email": "empresa02@teste.com",
       "cnpj": "12.346.678/0001-00",
       "created_at": "07/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "ab65"
     },
     {
@@ -19,6 +23,8 @@
       "email": "empresa03@teste.com",
       "cnpj": "12.345.678/0001-00",
       "created_at": "08/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "1b73"
     },
     {
@@ -26,6 +32,8 @@
       "email": "empresa04@teste.com",
       "cnpj": "12.346.678/0001-00",
       "created_at": "07/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "449f"
     },
     {
@@ -33,6 +41,8 @@
       "email": "empresa05@teste.com",
       "cnpj": "12.345.678/0001-00",
       "created_at": "06/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "c200"
     },
     {
@@ -40,6 +50,8 @@
       "email": "empresa06@teste.com",
       "cnpj": "12.346.678/0001-00",
       "created_at": "07/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "db28"
     },
     {
@@ -47,6 +59,8 @@
       "email": "empresa07@teste.com",
       "cnpj": "12.348.678/0001-00",
       "created_at": "06/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "e594"
     },
     {
@@ -54,6 +68,8 @@
       "email": "empresa08@teste.com",
       "cnpj": "12.348.678/0001-00",
       "created_at": "08/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "287ab"
     },
     {
@@ -61,6 +77,8 @@
       "email": "empresa09@teste.com",
       "cnpj": "12.345.678/0001-09",
       "created_at": "08/09/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "32e7"
     },
     {
@@ -68,6 +86,8 @@
       "email": "empresa08@teste.com",
       "cnpj": "12.348.678/0001-00",
       "created_at": "08/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "287a"
     },
     {
@@ -75,6 +95,8 @@
       "email": "empresa09@teste.com",
       "cnpj": "12.345.678/0001-09",
       "created_at": "08/09/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "32e8"
     },
     {
@@ -82,6 +104,8 @@
       "email": "empresa08@teste.com",
       "cnpj": "12.348.678/0001-00",
       "created_at": "08/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "288a"
     },
     {
@@ -89,6 +113,8 @@
       "email": "empresa09@teste.com",
       "cnpj": "12.345.678/0001-09",
       "created_at": "08/09/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "32e9"
     },
     {
@@ -96,6 +122,8 @@
       "email": "empresa08@teste.com",
       "cnpj": "12.348.678/0001-00",
       "created_at": "08/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "185e4"
     },
     {
@@ -103,6 +131,8 @@
       "email": "empresa09@teste.com",
       "cnpj": "12.345.678/0001-09",
       "created_at": "08/09/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "658r5"
     },
     {
@@ -110,6 +140,8 @@
       "email": "empresa08@teste.com",
       "cnpj": "12.348.678/0001-00",
       "created_at": "08/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "985f4"
     },
     {
@@ -117,6 +149,8 @@
       "email": "empresa09@teste.com",
       "cnpj": "12.345.678/0001-09",
       "created_at": "08/09/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "8547d2"
     },
     {
@@ -124,6 +158,8 @@
       "email": "empresa08@teste.com",
       "cnpj": "12.348.678/0001-00",
       "created_at": "08/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "874l2"
     },
     {
@@ -131,6 +167,8 @@
       "email": "empresa09@teste.com",
       "cnpj": "12.345.678/0001-09",
       "created_at": "08/09/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "894l2"
     },
     {
@@ -138,6 +176,8 @@
       "email": "empresa08@teste.com",
       "cnpj": "12.348.678/0001-00",
       "created_at": "08/05/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "184d2"
     },
     {
@@ -145,6 +185,8 @@
       "email": "empresa09@teste.com",
       "cnpj": "12.345.678/0001-09",
       "created_at": "08/09/2024",
+      "acessLevel":"Admin",
+      "username":"nome de ususario teste",
       "id": "365g3"
     }
   ],
