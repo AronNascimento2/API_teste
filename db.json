@@ -279,6 +279,8 @@
       "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
+      "created_at": "08/05/2024",
+
       "id": 1
     },
     {
@@ -287,23 +289,9 @@
       "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
+      "created_at": "08/05/2024",
+
       "id": 2
-    },
-    {
-      "name": "Terrus Carbon Coffe",
-      "categorie": "Categoria x",
-      "title": "Este projeto de redução de emissão ...",
-      "description": "Lorem Ipsum is simply dummy ...",
-      "image": "https://caminhodaimagem",
-      "id": 3
-    },
-    {
-      "name": "Terrus Carbon Coffe",
-      "categorie": "Categoria x",
-      "title": "Este projeto de redução de emissão ...",
-      "description": "Lorem Ipsum is simply dummy ...",
-      "image": "https://caminhodaimagem",
-      "id": 4
     }
   ]
 }
