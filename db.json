@@ -3,7 +3,7 @@
     {
       "name": "Empresa 01",
       "email": "empresa01@teste.com",
-      "cnpj": "12.345.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -12,7 +12,7 @@
     {
       "name": "Empresa 02",
       "email": "empresa02@teste.com",
-      "cnpj": "12.346.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "07/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -21,7 +21,7 @@
     {
       "name": "Empresa 03",
       "email": "empresa03@teste.com",
-      "cnpj": "12.345.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -30,7 +30,7 @@
     {
       "name": "Empresa 04",
       "email": "empresa04@teste.com",
-      "cnpj": "12.346.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "07/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -39,7 +39,7 @@
     {
       "name": "Empresa 05",
       "email": "empresa05@teste.com",
-      "cnpj": "12.345.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "06/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -48,7 +48,7 @@
     {
       "name": "Empresa 06",
       "email": "empresa06@teste.com",
-      "cnpj": "12.346.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "07/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -57,7 +57,7 @@
     {
       "name": "Empresa 07",
       "email": "empresa07@teste.com",
-      "cnpj": "12.348.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "06/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -66,7 +66,7 @@
     {
       "name": "Empresa 08",
       "email": "empresa08@teste.com",
-      "cnpj": "12.348.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -75,7 +75,7 @@
     {
       "name": "Empresa 09",
       "email": "empresa09@teste.com",
-      "cnpj": "12.345.678/0001-09",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/09/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -84,7 +84,7 @@
     {
       "name": "Empresa 10",
       "email": "empresa08@teste.com",
-      "cnpj": "12.348.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -93,7 +93,7 @@
     {
       "name": "Empresa 11",
       "email": "empresa09@teste.com",
-      "cnpj": "12.345.678/0001-09",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/09/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -102,7 +102,7 @@
     {
       "name": "Empresa 12",
       "email": "empresa08@teste.com",
-      "cnpj": "12.348.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -111,7 +111,7 @@
     {
       "name": "Empresa 13",
       "email": "empresa09@teste.com",
-      "cnpj": "12.345.678/0001-09",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/09/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -120,7 +120,7 @@
     {
       "name": "Empresa 14",
       "email": "empresa08@teste.com",
-      "cnpj": "12.348.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -129,7 +129,7 @@
     {
       "name": "Empresa 15",
       "email": "empresa09@teste.com",
-      "cnpj": "12.345.678/0001-09",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/09/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -138,7 +138,7 @@
     {
       "name": "Empresa 16",
       "email": "empresa08@teste.com",
-      "cnpj": "12.348.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -147,7 +147,7 @@
     {
       "name": "Empresa 17",
       "email": "empresa09@teste.com",
-      "cnpj": "12.345.678/0001-09",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/09/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -156,7 +156,7 @@
     {
       "name": "Empresa 18",
       "email": "empresa08@teste.com",
-      "cnpj": "12.348.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -165,7 +165,7 @@
     {
       "name": "Empresa 19",
       "email": "empresa09@teste.com",
-      "cnpj": "12.345.678/0001-09",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/09/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -174,7 +174,7 @@
     {
       "name": "Empresa 20",
       "email": "empresa08@teste.com",
-      "cnpj": "12.348.678/0001-00",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/05/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
@@ -183,7 +183,7 @@
     {
       "name": "Empresa 21",
       "email": "empresa09@teste.com",
-      "cnpj": "12.345.678/0001-09",
+      "cnpj": "00.000.000/0000-00",
       "created_at": "08/09/2024",
       "accessLevel": "Usuário",
       "username": "nome de usuário teste",
