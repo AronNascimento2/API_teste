@@ -194,7 +194,7 @@
   "projects": [
     {
       "name": "Terrus Carbon Coffe",
-      "categorie": "Agricultura regenerativa",
+      "category": "Agricultura regenerativa",
       "titleOfDescription": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
@@ -202,7 +202,7 @@
     },
     {
       "name": "Terrus Carbon Coffe",
-      "categorie": "Agricultura regenerativa",
+      "category": "Agricultura regenerativa",
       "titleOfDescription": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
@@ -210,7 +210,7 @@
     },
     {
       "name": "Terrus Carbon Coffe",
-      "categorie": "Agricultura regenerativa",
+      "category": "Agricultura regenerativa",
       "titleOfDescription": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
@@ -218,7 +218,7 @@
     },
     {
       "name": "Terrus Carbon Coffe",
-      "categorie": "Agricultura regenerativa",
+      "category": "Agricultura regenerativa",
       "titleOfDescription": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
@@ -229,7 +229,7 @@
     {
       "name": "Libbs",
       "cnpj": "00.000.000/0000-00",
-      "categorie": "Agricultura regenerativa",
+      "category": "Agricultura regenerativa",
       "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
@@ -242,7 +242,7 @@
   "customercertificates": [
     {
       "name": "Certificado 01",
-      "categorie": "Agricultura regenerativa",
+      "category": "Agricultura regenerativa",
       "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
@@ -252,7 +252,7 @@
     },
     {
       "name": "Certificado 02",
-      "categorie": "Agricultura regenerativa",
+      "category": "Agricultura regenerativa",
       "title": "Este projeto de redução de emissão ...",
       "description": "Lorem Ipsum is simply dummy ...",
       "image": "https://caminhodaimagem",
