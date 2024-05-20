@@ -292,25 +292,6 @@
       "created_at": "08/05/2024",
 
       "id": 2
-<<<<<<< HEAD
-=======
-    },
-    {
-      "name": "Terrus Carbon Coffe",
-      "categorie": "Agricultura regenerativa",
-      "title": "Este projeto de redução de emissão ...",
-      "description": "Lorem Ipsum is simply dummy ...",
-      "image": "https://caminhodaimagem",
-      "id": 3
-    },
-    {
-      "name": "Terrus Carbon Coffe",
-      "categorie": "Agricultura regenerativa",
-      "title": "Este projeto de redução de emissão ...",
-      "description": "Lorem Ipsum is simply dummy ...",
-      "image": "https://caminhodaimagem",
-      "id": 4
->>>>>>> a66469bf582ba292a77348b038f8e607383295a2
     }
   ]
 }
